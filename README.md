@@ -1,6 +1,6 @@
 # flippr_covid
 
-SanilChawlaFlippr
+
 
 ## Getting Started
 
