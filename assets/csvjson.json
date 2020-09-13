@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "patientId": 72,
+      "reportedOn": "12-03-2020",
+      "ageEstimate": 69,
+      "gender": "female",
+      "state": "Delhi",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 77,
+      "reportedOn": "12-03-2020",
+      "ageEstimate": 65,
+      "gender": "male",
+      "state": "Maharashtra",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 74,
+      "reportedOn": "13-03-2020",
+      "ageEstimate": 76,
+      "gender": "male",
+      "state": "Karnataka",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 182,
+      "reportedOn": "19-03-2020",
+      "ageEstimate": 70,
+      "gender": "male",
+      "state": "Punjab",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 270,
+      "reportedOn": "21-03-2020",
+      "ageEstimate": 63,
+      "gender": "male",
+      "state": "Maharashtra",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 294,
+      "reportedOn": "21-03-2020",
+      "ageEstimate": 67,
+      "gender": "male",
+      "state": "Gujarat",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 327,
+      "reportedOn": "21-03-2020",
+      "ageEstimate": 57,
+      "gender": "male",
+      "state": "West Bengal",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 348,
+      "reportedOn": "22-03-2020",
+      "ageEstimate": 38,
+      "gender": "male",
+      "state": "Bihar",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 380,
+      "reportedOn": "22-03-2020",
+      "ageEstimate": 69,
+      "gender": "male",
+      "state": "Kerala",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 430,
+      "reportedOn": "23-03-2020",
+      "ageEstimate": 85,
+      "gender": "female",
+      "state": "Gujarat",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 487,
+      "reportedOn": "23-03-2020",
+      "ageEstimate": 69,
+      "gender": "male",
+      "state": "Himachal Pradesh",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 502,
+      "reportedOn": "23-03-2020",
+      "ageEstimate": 54,
+      "gender": "male",
+      "state": "Tamil Nadu",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 531,
+      "reportedOn": "24-03-2020",
+      "ageEstimate": 65,
+      "gender": "male",
+      "state": "Jammu and Kashmir",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 577,
+      "reportedOn": "25-03-2020",
+      "ageEstimate": 65,
+      "gender": "female",
+      "state": "Madhya Pradesh",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 690,
+      "reportedOn": "26-03-2020",
+      "ageEstimate": 70,
+      "gender": "female",
+      "state": "Karnataka",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 726,
+      "reportedOn": "26-03-2020",
+      "ageEstimate": "",
+      "gender": "",
+      "state": "Rajasthan",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 747,
+      "reportedOn": "27-03-2020",
+      "ageEstimate": 35,
+      "gender": "male",
+      "state": "Madhya Pradesh",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 758,
+      "reportedOn": "27-03-2020",
+      "ageEstimate": 60,
+      "gender": "male",
+      "state": "Karnataka",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 946,
+      "reportedOn": "28-03-2020",
+      "ageEstimate": 74,
+      "gender": "male",
+      "state": "Telangana",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 1012,
+      "reportedOn": "28-03-2020",
+      "ageEstimate": 44,
+      "gender": "female",
+      "state": "West Bengal",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 1074,
+      "reportedOn": "29-03-2020",
+      "ageEstimate": 68,
+      "gender": "male",
+      "state": "Kerala",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 1166,
+      "reportedOn": "30-03-2020",
+      "ageEstimate": 45,
+      "gender": "female",
+      "state": "Gujarat",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 1385,
+      "reportedOn": "31-03-2020",
+      "ageEstimate": 48,
+      "gender": "female",
+      "state": "West Bengal",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 2061,
+      "reportedOn": "02-04-2020",
+      "ageEstimate": 73,
+      "gender": "male",
+      "state": "Maharashtra",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 2587,
+      "reportedOn": "03-04-2020",
+      "ageEstimate": 75,
+      "gender": "male",
+      "state": "Karnataka",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 3020,
+      "reportedOn": "03-04-2020",
+      "ageEstimate": 67,
+      "gender": "male",
+      "state": "Maharashtra",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 3021,
+      "reportedOn": "03-04-2020",
+      "ageEstimate": 67,
+      "gender": "male",
+      "state": "Maharashtra",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 3022,
+      "reportedOn": "03-04-2020",
+      "ageEstimate": 65,
+      "gender": "female",
+      "state": "Maharashtra",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 3190,
+      "reportedOn": "04-04-2020",
+      "ageEstimate": 44,
+      "gender": "male",
+      "state": "Maharashtra",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 3191,
+      "reportedOn": "04-04-2020",
+      "ageEstimate": 62,
+      "gender": "male",
+      "state": "Maharashtra",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 3489,
+      "reportedOn": "04-04-2020",
+      "ageEstimate": 75,
+      "gender": "female",
+      "state": "Punjab",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 3762,
+      "reportedOn": "05-04-2020",
+      "ageEstimate": 60,
+      "gender": "male",
+      "state": "Maharashtra",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 4146,
+      "reportedOn": "05-04-2020",
+      "ageEstimate": "",
+      "gender": "",
+      "state": "Uttar Pradesh",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 4244,
+      "reportedOn": "05-04-2020",
+      "ageEstimate": 1,
+      "gender": "male",
+      "state": "Gujarat",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 4861,
+      "reportedOn": "07-04-2020",
+      "ageEstimate": 80,
+      "gender": "female",
+      "state": "Karnataka",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 4906,
+      "reportedOn": "07-04-2020",
+      "ageEstimate": 72,
+      "gender": "male",
+      "state": "Odisha",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 4933,
+      "reportedOn": "07-04-2020",
+      "ageEstimate": 71,
+      "gender": "male",
+      "state": "Kerala",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 5385,
+      "reportedOn": "08-04-2020",
+      "ageEstimate": 65,
+      "gender": "male",
+      "state": "Karnataka",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 6267,
+      "reportedOn": "09-04-2020",
+      "ageEstimate": 66,
+      "gender": "male",
+      "state": "Karnataka",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 6833,
+      "reportedOn": "10-04-2020",
+      "ageEstimate": 55,
+      "gender": "male",
+      "state": "Karnataka",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 8324,
+      "reportedOn": "11-04-2020",
+      "ageEstimate": 22,
+      "gender": "female",
+      "state": "Maharashtra",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 11681,
+      "reportedOn": "15-04-2020",
+      "ageEstimate": 50,
+      "gender": "male",
+      "state": "Maharashtra",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 11763,
+      "reportedOn": "15-04-2020",
+      "ageEstimate": 80,
+      "gender": "female",
+      "state": "Karnataka",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 14715,
+      "reportedOn": "18-04-2020",
+      "ageEstimate": 42,
+      "gender": "male",
+      "state": "Karnataka",
+      "status": "Deceased"
+    },
+    {
+      "patientId": 16136,
+      "reportedOn": "19-04-2020",
+      "ageEstimate": 50,
+      "gender": "female",
+      "state": "Karnataka",
+      "status": "Deceased"
+    }
+  ]
+}
