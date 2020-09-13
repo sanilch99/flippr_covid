@@ -116,7 +116,7 @@ class _HomeState extends State<Home> {
                             ],
                           ),
                           onPressed: (){
-                            launch("https://mail.google.com/mail/u/0/#inbox/FMfcgxwJXpSCvLfpvxjcFfGVFxFnndGV");
+                            launch("https://github.com/sanilch99/flippr_covid");
                             Navigator.pop(context);
                           },
                         ),
